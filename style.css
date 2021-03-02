@@ -3,3 +3,54 @@
     padding: 0;
     margin: 0;
 }
+
+header{
+    position: fixed;
+    width: 100%;
+    height: 100px;
+}
+
+ul{
+    list-style: none;
+    position: absolute;
+    right: 30px;
+}
+
+nav > ul > li{
+    display: inline-block;
+    padding-top: 50px;
+    margin-left: 30px;
+    
+   
+}
+
+span{
+    padding: 20px;
+    background-color: white;
+    border-radius: 50%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+.misure{
+    height: 100vh;
+    width: 100%;
+}
+
+.rosso{
+    background-color: red;
+}
+
+.verde{
+    background-color: green;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+
+
+
